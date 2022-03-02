@@ -1,5 +1,6 @@
 [
     {"name": "samsungS&N8+", "w": 9, "h": 18.5},
     {"name": "iphoneX+", "w": 9, "h": 19.5},
+    {"name": "iphone11Pro", "w": 9, "h": 18},
     {"name": "old_iphone", "w": 9, "h": 16}
 ]
