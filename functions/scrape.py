@@ -17,6 +17,7 @@ def get_screenshots(device):
     
     with webdriver.Chrome(options = options) as browser:
         browser.get("https://covid-19.ontario.ca/school-screening/")
+        time.sleep(0.4)
             
         click_button(browser, "Start school screening")
             
